@@ -1,4 +1,6 @@
 Healthcare Chatbot using Flask and Machine Learning
+
+
 Tech Stack: Python, Flask, SQLite, Scikit-learn, HTML, CSS, JavaScript, DuckDuckGo API
  • Developed a web-based chatbot that predicts diseases based on user-input symptoms using a Random Forest model.
  • Designed a multi-step form flow with Flask sessions to collect name, age, and symptom details.
